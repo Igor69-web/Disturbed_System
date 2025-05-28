@@ -1,0 +1,1 @@
+Вместо Amazon S3 поставить Hadoop HDFS
